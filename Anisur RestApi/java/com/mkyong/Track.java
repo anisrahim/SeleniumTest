@@ -2,6 +2,7 @@ package com.mkyong;
 
 public class Track {
 
+	
 	String title;
 	String singer;
 
