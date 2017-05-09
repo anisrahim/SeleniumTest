@@ -3,6 +3,8 @@ package com.mkyong;
 public class Track {
 
 	
+	//changed from GitHub
+	
 	String title;
 	String singer;
 
